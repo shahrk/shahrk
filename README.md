@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,&nbsp; I'm [Raj!](https://www.rajshah.work) 
 
-### About Me 🚀
+<!-- ### About Me 🚀 -->
 
 🎓  I’m a Software Engineer & a graduate student pursuing my Master's in Computer Science at NC State University. </br>
 👨‍💻  I am passionate about System Design, Web Dev, Distributed Systems, Automation & I enjoy learning new things. </br>
