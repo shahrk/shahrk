@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <a href="https://golang.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/>
   </a>
-  <a href="https://golang.org" target="_blank"> 
+  <a href="https://nodejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="go" width="30" height="30"/>
   </a>
 </p>  
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="js" width="30" height="30"/>
   </a>
-  <a href="https://www.mongodb.com" target="_blank"> 
+  <a href="https://aws.amazon.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="js" width="30" height="30"/>
   </a>
   <a href="https://www.docker.com" target="_blank"> 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   <a href="https://www.git.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="js" width="30" height="30"/>
   </a>
-  <a href="https://www.git.com" target="_blank"> 
+  <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="js" width="30" height="30"/>
   </a>
 </p> 
