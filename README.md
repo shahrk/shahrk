@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 💬  Ask me about anything related to System Design, Tech, Finance, Economics, or Crypto  
 🔭  I’m currently working on [Feature Hunt!](https://github.com/shahrk/feature-hunt).  
 
-### My Development Arsenal 🛠 
+### Tech Stack 🛠 
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank">
